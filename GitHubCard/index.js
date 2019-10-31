@@ -40,7 +40,6 @@ axios.get("https://api.github.com/users/DustinG98")
 */
  
 const followers = [];
-const followersArray = [];
 
 
 axios.get("https://api.github.com/users/DustinG98/followers")
